@@ -4,7 +4,7 @@ install package pygame :
 ```
 pip install pygame
 ```
-# TO PLAY THE GAME 
+## TO PLAY THE GAME 
     Controls - P1 :
                   W - up
                   S - down
